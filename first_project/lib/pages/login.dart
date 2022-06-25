@@ -1,12 +1,15 @@
-import 'dart:html';
-
 import 'package:flutter/material.dart';
 
 class Login extends StatelessWidget {
-  const Login({Key? key}) : super(key: key);
-
   @override
   Widget build(BuildContext context) {
-    return MaterialApp();
+    return Material(
+        child: Center(
+      child: Text(
+        "Login",
+        style: TextStyle(
+            fontSize: 20, fontWeight: FontWeight.bold, color: Colors.blue),
+      ),
+    ));
   }
 }
