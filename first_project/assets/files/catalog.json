@@ -1,0 +1,100 @@
+{
+    "products":[
+
+
+        
+       {
+        
+         "id": 1,
+        "color": "#33505a",
+        "desp": "Apple i phone 12th genration",
+        "image": "https://swaptou.mu/wp-content/uploads/2020/12/shared-iphone-12-pro-graphite-01-900x1200-1.jpg",
+        "name": "i phone 12 pro",
+        "price": 999
+
+       },
+
+       {
+        
+        "id": 2,
+       "color": "#33505a",
+       "desp": "Samsung Galaxy Buds Pro Truly Wireless Bluetooth in Ear Earbuds 99% Noise Cancellation, Wireless Charging, 28 Hours Playtime with Mic (Violet)",
+       "image":"https://m.media-amazon.com/images/I/516+h7HKsyL._SL1002_.jpg",
+       "name": "Samsung Glaxy Burds Pro",
+       "price": 999
+
+      },
+
+      {
+        
+        "id": 3,
+       "color": "#33505a",
+       "desp": "Apple i phone 12th genration",
+       "image":"https://swaptou.mu/wp-content/uploads/2020/12/shared-iphone-12-pro-graphite-01-900x1200-1.jpg",
+       "name": "i phone 12 pro",
+       "price": 999
+
+      },
+
+      {
+        
+        "id": 4,
+       "color": "#33505a",
+       "desp": "Apple i phone 12th genration",
+       "image":"https://swaptou.mu/wp-content/uploads/2020/12/shared-iphone-12-pro-graphite-01-900x1200-1.jpg",
+       "name": "i phone 12 pro",
+       "price": 999
+
+      },
+
+      {
+        
+        "id": 5,
+       "color": "#33505a",
+       "desp": "Apple i phone 12th genration",
+       "image":"https://swaptou.mu/wp-content/uploads/2020/12/shared-iphone-12-pro-graphite-01-900x1200-1.jpg",
+       "name": "i phone 12 pro",
+       "price": 999
+
+      },
+
+      {
+        
+        "id": 6,
+       "color": "#33505a",
+       "desp": "Apple i phone 12th genration",
+       "image":"https://swaptou.mu/wp-content/uploads/2020/12/shared-iphone-12-pro-graphite-01-900x1200-1.jpg",
+       "name": "i phone 12 pro",
+       "price": 999
+
+      },
+      
+      {
+        
+        "id": 7,
+       "color": "#33505a",
+       "desp": "Apple i phone 12th genration",
+       "image":"https://swaptou.mu/wp-content/uploads/2020/12/shared-iphone-12-pro-graphite-01-900x1200-1.jpg",
+       "name": "i phone 12 pro",
+       "price": 999
+
+      },
+
+      {
+        
+        "id": 8,
+       "color": "#33505a",
+       "desp": "Apple i phone 12th genration",
+       "image":"https://swaptou.mu/wp-content/uploads/2020/12/shared-iphone-12-pro-graphite-01-900x1200-1.jpg",
+       "name": "i phone 12 pro",
+       "price": 999
+
+      }
+
+
+    ]
+
+
+
+
+}
