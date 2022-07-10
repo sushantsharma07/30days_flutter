@@ -28,12 +28,14 @@ class HomeDetailPage extends StatelessWidget {
                   backgroundColor:
                       MaterialStateProperty.all(MyTheme.darkBlueishColor),
                   shape: MaterialStateProperty.all(StadiumBorder())),
-              child: "Buy".text.make(),
-            ).wh(100, 50)
+              child: "Add to cart".text.make(),
+            ).wh(120, 50)
           ],
         ).p32(),
       ),
-      appBar: AppBar(),
+      appBar: AppBar(
+        backgroundColor: Colors.transparent,
+      ),
       backgroundColor: MyTheme.creamColor,
       body: SafeArea(
         bottom: false,
@@ -58,6 +60,11 @@ class HomeDetailPage extends StatelessWidget {
                       .make(),
                   catalog.desp.text.xl.textStyle(context.captionStyle).make(),
                   10.heightBox,
+                  "Amet ut consetetur aliquyam amet gubergren diam diam tempor. Gubergren dolores ut ipsum et et sanctus. Invidunt duo at rebum dolor rebum dolor rebum ipsum et. Gubergren aliquyam erat takimata magna eos, accusam eos eirmod consetetur no diam rebum sed. Gubergren ut sit sadipscing sed lorem invidunt et ipsum lorem.."
+                      .text
+                      .textStyle(context.captionStyle)
+                      .make()
+                      .p16()
                 ]).py64(),
               ),
             ))
